@@ -5,13 +5,13 @@ import { getAuth, signInWithPopup, GoogleAuthProvider } from 'firebase/auth';
 
 // Step 2: Initialize Firebase
 const firebaseConfig = {
-    apiKey: "xx",
-    authDomain: "xx",
-    projectId: "federated-login-testing",
-    storageBucket: "xx",
-    messagingSenderId: "xx",
-    appId: "xx",
-    measurementId: "G-xx"
+  apiKey: "AIzaSyDfFbgmsOKnAc-VrwoOSi4m1GN3CMQeuNY",
+  authDomain: "federated-login-testing-8f018.firebaseapp.com",
+  projectId: "federated-login-testing-8f018",
+  storageBucket: "federated-login-testing-8f018.appspot.com",
+  messagingSenderId: "1090430302471",
+  appId: "1:1090430302471:web:b531e0fd213374d24c2da2",
+  measurementId: "G-CNSPEED5C3"
 };
 
 initializeApp(firebaseConfig);
